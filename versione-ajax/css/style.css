@@ -1,0 +1,7 @@
+.titolo_faq {
+    cursor: pointer;
+}
+
+.risposta_faq {
+    display: none;
+}
